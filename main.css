@@ -75,9 +75,10 @@
   }
 
   #logo {
-    text-align: center;
-    margin: auto;
-    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px ;
+    
   }
   
   .text-center {
@@ -125,10 +126,19 @@
   
   .bg-light {
     background-color: var(--clr-primary-200);
-    background-image:  url("images/titelbild.png");
-    background-repeat: no-repeat;
     display: block;
     max-width: 100%;
+    background-image: url("images/titelbild.png");
+    background-repeat: no-repeat;
+
+  }
+
+  .bg-end{
+    background-color: var(--clr-primary-100);
+    display: block;
+    max-width: 100%;
+    background-image: url("images/titelbild.png");
+    background-repeat: no-repeat;
 
   }
   
