@@ -46,9 +46,6 @@
     list-style-position: outside;
   }
 
-  ol {
-    font-style: bold;
-  }
 
   #headline {
     color: white;
@@ -84,7 +81,8 @@
   }
 
   #logo {
-    margin-left: 15px;
+    margin-inline: auto;
+    text-align: center;
     margin-top: 15px;
     margin-bottom: 15px ;
     
