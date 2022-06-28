@@ -223,8 +223,9 @@
 }
 
 .slide-ueberschrift {
-    font-size: 1.8em;
-    margin: 20px 0;
+    font-size: 1.6em;
+    margin-top: 30px;
+    margin-bottom: -1px;
 }
 
 .slide-beschreibung {
