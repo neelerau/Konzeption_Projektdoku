@@ -190,6 +190,9 @@ section {
 #download {
   color: white;
 }
+#download:hover {
+  opacity: 50%;
+}
 
 .slideshow {
   width: 80vw;
