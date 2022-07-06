@@ -183,6 +183,14 @@ section {
 
 }
 
+video {
+  display: block;
+  max-width: 100%;
+  text-align: center;
+  margin-inline: auto;
+  box-shadow: 0px 0px 10px gray;
+}
+
 #footertext{
   margin-bottom: 0;
 }
